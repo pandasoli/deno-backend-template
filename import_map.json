@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "@routes/": "./routes/",
+    "@utils/": "./utils/",
+    "@controllers/": "./controllers/",
+    "@models/": "./models/",
+    "@services/": "./services/",
+    "@hooks/": "./hooks/",
+    "@scripts/": "./scripts/",
+    "$types/": "./types/",
+    "deps": "./deps.ts"
+  }
+}
